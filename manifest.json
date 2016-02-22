@@ -1,0 +1,10 @@
+{
+  "name": "MPrint Chrome",
+  "description": "Print to MPrint from any webpage",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["sample.js"]
+  },
+  "manifest_version": 2
+}
